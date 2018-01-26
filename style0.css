@@ -1,0 +1,39 @@
+body {
+	text-align: center;
+	font-family: Open Sans;
+}
+
+h1 {
+	font-size: 42px;
+
+}
+
+h2 {
+	font-size: 32px;
+
+}
+
+#header {
+	background-color: #6ddbe8; 
+	padding: 80px; 
+	margin-bottom: 50px;
+}
+
+#header h1, #header h2 {
+color: white;
+
+}
+
+#about_content img {
+	width: 120px;
+	border-radius: 100px;
+}
+
+a {
+	color: #2b4d84;
+	text-decoration: none;
+}
+
+a: hover {
+	color: #b0e5db;
+}
